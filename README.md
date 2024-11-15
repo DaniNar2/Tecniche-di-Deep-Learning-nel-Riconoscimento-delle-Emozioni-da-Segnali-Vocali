@@ -1,0 +1,1 @@
+# Tecniche-di-Deep-Learning-nel-Riconoscimento-delle-Emozioni-da-Segnali-Vocali
