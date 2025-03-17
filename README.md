@@ -4,7 +4,7 @@
 ## Dataset
 Il dataset è reperibile al seguente [link](https://www.kaggle.com/datasets/ejlok1/cremad)
 ## Relazione
-Il progetto è presentato è descritto nella seguente [relazione]()
+Il progetto è presentato è descritto nella seguente [relazione](https://github.com/DaniNar2/Tecniche-di-Deep-Learning-nel-Riconoscimento-delle-Emozioni-da-Segnali-Vocali/blob/main/Tesi-Daniela_Nardone.pdf)
 ## Codice
 - Codice Data Preprocessing: [Link](https://github.com/DaniNar2/Tecniche-di-Deep-Learning-nel-Riconoscimento-delle-Emozioni-da-Segnali-Vocali/blob/main/Data_Preprocessing.ipynb)
 - Codice al progetto con lo studio svolto su 6 emozioni: [Link](https://github.com/DaniNar2/Tecniche-di-Deep-Learning-nel-Riconoscimento-delle-Emozioni-da-Segnali-Vocali/blob/main/Project_6emotions.ipynb)
